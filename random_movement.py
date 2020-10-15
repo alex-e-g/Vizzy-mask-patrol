@@ -1,9 +1,3 @@
-#!/usr/bin/env python 
-
-#Joao Avelino, 2020.
-#ISR-Lisboa / IST
-
-#A template of a GeneralActionlib actionserver for you to use
 
 import random
 import ast
